@@ -19,7 +19,7 @@ Second Task:
 
 Requirements:
 
-- You shuld use MUI5 components https://mui.com/material-ui/
+- You should use MUI5 components https://mui.com/material-ui/
 - You can create your own component if needed, style it with the default `styled` from MUI without installing other libraries
 
 Bonus points:
